@@ -1,0 +1,58 @@
+body {
+  background-color: #030303;
+}
+
+body p {
+  color: white;
+  text-align: center;
+}
+
+div.dance {
+  height: 10em;
+  display: flex;
+  align-items: center;
+  justify-content: center }
+div.dance p {
+  margin: 0;
+  font-family: 'Marcellus', serif; 
+}
+
+div.footer { 
+  position: fixed;     
+  text-align: center;    
+  bottom: 4px; 
+  width: 100%; 
+  font-family: 'Marcellus', serif;
+  font-size: 14px;
+} 
+
+div.footer a:link {
+  color: #00FF00;
+}
+
+div.footer a:visited {
+  color: #00FF00;
+}
+
+div.footer a:hover {
+  color: #00FF00;
+}
+
+div.footer a:active {
+  color: #00FF00;
+}
+
+div.footer p {
+  font-family: 'Marcellus SC', serif;
+  font-size: 14px;
+}
+
+div.footer2 { 
+  position: fixed;     
+  text-align: center;    
+  bottom: 4px; 
+  width: 100%; } 
+div.footer2 p {
+  font-family: 'Marcellus SC', serif;
+  font-size: 14px;
+}
